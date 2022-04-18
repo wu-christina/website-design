@@ -1,6 +1,6 @@
 body {
     background-color: rgb(255, 255, 240);
-    margin: 175px
+    margin: 175px 175px 0px 175px;
 }
 
 header{
@@ -42,13 +42,14 @@ p, li {
     top: 0px;
     width: 100%;
     z-index: 999;
-    background-color: #fedbf8;
-    opacity: 0.7;
+    background-color: rgb(255, 255, 240);
+    
 }
 
 .nav-link {
     font-family: "Pluto Sans Bold", sans-serif;
     text-decoration: none;
+    font-size: 20px;
     padding: 0px 100px;
     
 }
